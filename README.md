@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the app, make sure you sign up at Unsplach.com/developers and add the Api-Secret key to the Unsplash.js file in api folder.
 
 ## Available Scripts
 
